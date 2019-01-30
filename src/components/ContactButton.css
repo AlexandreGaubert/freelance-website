@@ -1,0 +1,18 @@
+.contactButton {
+  max-width: 10px;
+
+}
+
+.contactButton:hover {
+  transition: max-width 1s ease-in-out;
+  max-width: 1000px;
+
+}
+
+.text {
+  max-width: 0;
+}
+
+.textExp {
+  max-width: 1000px;
+}
